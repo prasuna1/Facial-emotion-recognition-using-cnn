@@ -1,2 +1,2 @@
 # Facial emotion recognition using Convolutional neural  Network
-Takes input via 1) images  2) video  3) webcam
+College project to detect human expressions aka emotions via facial features via Detect human emotions in three manner i.e a.) Via Screen b.) Via Video c.) Via Webcam
